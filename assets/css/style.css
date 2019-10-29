@@ -1031,7 +1031,7 @@ section {
     #BACKGROUNDS
 \*------------------------------------*/
 .bg-theme {
-	background-color: #084f49;
+	background-color: #084f49 !important;
 }
 
 .bg-gray {
